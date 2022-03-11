@@ -1,0 +1,2 @@
+# xmr-mine
+xmr mine
